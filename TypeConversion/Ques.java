@@ -7,7 +7,7 @@ public class Ques {
         int c = (int)b;
         System.out.println(b);
         System.out.println(c);
-    //  //wide
+    //  //widing
     // int a = 8;
     // double p = a;
     // System.out.println(a);   
